@@ -1,0 +1,4 @@
+dk\loanbroker\messaging\LoanRequestSender.class
+dk\loanbroker\send\SendTest.class
+dk\loanbroker\controller\SendLoanRequest.class
+dk\loanbroker\dto\LoanRequestDTO.class
